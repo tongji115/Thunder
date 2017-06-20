@@ -1,0 +1,26 @@
+#ifndef _TOTAL_DEFINE_H_
+#define _TOTAL_DEFINE_H_
+
+
+#define FRIEND 1
+#define ENEMEY -1
+#define ENHANCE_PACK 6
+#define MY_PLAYER 1
+#define MY_BULLET 3
+
+#define ENEMEY_BODY 4
+#define ENEMEY_BULLET 5
+
+#define COLLISION_TRUE 0xFFFFFFFF
+#define COLLISION_FALSE 0x00000000
+
+
+#define HEALTH_PACK 1
+#define WEAPON_PACK_1 2
+#define WEAPON_PACK_2 3
+
+#define NORMAL_BULLET 0
+#define ENHANCE_BULLET_1 WEAPON_PACK_1
+
+#endif
+
